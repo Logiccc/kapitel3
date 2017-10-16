@@ -5,6 +5,8 @@ public class uppgift2{
 
 		int pris = Integer.parseInt(JOptionPane.showInputDialog(null, "Pris tack"));
 		int besök = Integer.parseInt(JOptionPane.showInputDialog(null, "hur ofta gymmar du per vekkka?")) * 52;
+		int årskort = Integer.parseInt(JOptionPane.showInputDialog(null, "årskort pris tack din jävel"));
+		
 
 	}
 }
